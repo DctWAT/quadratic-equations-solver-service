@@ -1,0 +1,29 @@
+legend {
+    padding: 10px 15px;
+    color: #e04938;
+    font-family: Sans-Serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+form {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+label {
+    color: #656665;
+    font-size: 16px;
+    font-family: Sans-Serif;
+}
+
+input[type='number'] {
+    -moz-appearance: textfield;
+    width: 5em;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
